@@ -1,5 +1,17 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=amine1919a&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F169289454%3Fv%3D4" alt="Amine Abdelli — GitHub profile banner" />
+  <img
+    src="https://avatars.githubusercontent.com/u/169289454?v=4"
+    width="150"
+    height="150"
+    alt="Amine Abdelli profile photo"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=amine1919a&theme=neon"
+    alt="Amine Abdelli — GitHub banner"
+  />
 </p>
 
 <h1 align="center">Amine Abdelli</h1>
