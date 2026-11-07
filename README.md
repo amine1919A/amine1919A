@@ -1,11 +1,4 @@
-<p align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/169289454?v=4"
-    width="150"
-    height="150"
-    alt="Amine Abdelli profile photo"
-  />
-</p>
+
 
 <p align="center">
   <img
